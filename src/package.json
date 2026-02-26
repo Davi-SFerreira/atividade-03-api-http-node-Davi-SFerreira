@@ -1,0 +1,9 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {},
+  "aluno": "Davi da Silva Ferreira",
+  "assunto": "Matricula"
+}
